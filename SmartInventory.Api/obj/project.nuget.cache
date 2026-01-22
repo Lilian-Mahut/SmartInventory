@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "onCs2QukLlc=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\exu\\PROJETS\\SmartInventory\\SmartInventory.Api\\SmartInventory.Api.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Impossible de résoudre 'Microsoft.AspNetCore.OpenApi (>= 10.0.2)' pour 'net10.0'.",
+      "projectPath": "C:\\Users\\exu\\PROJETS\\SmartInventory\\SmartInventory.Api\\SmartInventory.Api.csproj",
+      "filePath": "C:\\Users\\exu\\PROJETS\\SmartInventory\\SmartInventory.Api\\SmartInventory.Api.csproj",
+      "libraryId": "Microsoft.AspNetCore.OpenApi",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
